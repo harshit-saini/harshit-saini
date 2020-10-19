@@ -31,7 +31,7 @@
 <br />
 <br />
 
-![MY GITHUB STATS](https://github-readme-stats.vercel.app/api?username=harshit-saini&show_icons=true&count_private=true)
+![MY GITHUB STATS](https://github-readme-stats.vercel.app/api?username=harshit-saini&show_icons=true&count_private=true&hide=prs,issues,contribs)
 
 
 [website]: https://harshitsaini.com
