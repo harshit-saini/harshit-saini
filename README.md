@@ -5,8 +5,8 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning Data Structures 🤣
-- ⚡ Fun fact: I love to sing.
+- I am professional software developer majorily working on full stack applications.
+- Fun fact: I love to sing.
 
 ### Connect with me:
 
